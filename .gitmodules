@@ -1,0 +1,6 @@
+[submodule "concurrent-rendering-react-18"]
+	path = concurrent-rendering-react-18
+	url = git@github.com:mimamulhassankhan/concurrent-rendering-react-18.git
+[submodule "chat-rooms-simple"]
+	path = chat-rooms-simple
+	url = git@github.com:mimamulhassankhan/chat-rooms-simple.git
